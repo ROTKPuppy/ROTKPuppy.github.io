@@ -15,7 +15,3 @@ type: page
 ## 联系我
 
 * email：zhengjian@jiayougo.com
-
-## Comments
-
-{% include comments.html %}
