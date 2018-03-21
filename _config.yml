@@ -5,9 +5,10 @@
 
 # Site
 title: 郑金牛儿的博客
-subtitle:
+subtitle: 记录学习的点点滴滴
 description: 初心易得 始终难守
 author: 郑金牛儿
+
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: zh-Hans
 date_format: '%Y-%m-%d'
@@ -232,7 +233,7 @@ social_icons:
 
 # Sidebar Avatar
 # in directory: /assets/images/avatar.gif
-avatar: /assets/images/avatar.jpeg
+#avatar:
 
 
 # Table Of Contents in the Sidebar
