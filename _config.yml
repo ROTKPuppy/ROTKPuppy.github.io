@@ -2,8 +2,8 @@
 permalink:           pretty
 
 # Setup
-title:               Poole
-tagline:             The Jekyll Butler
+title:               郑金牛儿
+tagline:             iOS开发者
 url:                 http://getpoole.com
 paginate:            1
 baseurl:             ""
@@ -17,9 +17,8 @@ sass:
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:              郑金牛儿
+  email:             zhengjian@jiayougo.com
 
 # Custom vars
 version:             2.0.0
