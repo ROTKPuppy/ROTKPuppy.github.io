@@ -10,7 +10,3 @@ type: page
 {:toc}
 
 ## 工具
-
-## Comments
-
-{% include comments.html %}
