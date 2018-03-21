@@ -7,7 +7,7 @@
 title: NexT
 subtitle:
 description:
-author: John Doe
+author: 郑金牛儿
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: zh-Hans
 date_format: '%Y-%m-%d'
@@ -232,7 +232,7 @@ social_icons:
 
 # Sidebar Avatar
 # in directory: /assets/images/avatar.gif
-#avatar:
+avatar: /assets/images/avatar.jpeg
 
 
 # Table Of Contents in the Sidebar
